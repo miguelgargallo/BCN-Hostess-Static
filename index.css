@@ -1,0 +1,45 @@
+body {
+  padding-bottom: 0px;
+}
+
+.container {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.row {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.nav .nav-scroller {
+  margin-bottom: 0px;
+  position: relative;
+  z-index: 2;
+  height: 2.75rem;
+  overflow-y: hidden;
+  display: flex;
+  flex-wrap: nowrap;
+  padding-bottom: 1rem;
+  margin-top: -1px;
+  overflow-x: auto;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+}
+
+
+.maintxt {
+  position: relative;
+}
+
+.maintxt>img,
+.overlay-text {
+  position: absolute;
+
+  
+  }
+
+
+/* Se viene la uea */
+
